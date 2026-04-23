@@ -28,8 +28,7 @@ Foi utilizado o dataset de detecção de dengue disponível no Kaggle, contendo 
 Link:
 https://www.kaggle.com/datasets/aravind3505/dengue-detection-dataset-clinical-data
 
-### Features
-
+###Features
 - **age**: idade do paciente  
 - **gender**: sexo do paciente  
 - **hemoglobin_g_dl**: nível de hemoglobina (g/dL)  
@@ -40,10 +39,8 @@ https://www.kaggle.com/datasets/aravind3505/dengue-detection-dataset-clinical-da
 - **platelet_distribution_width**: variação do tamanho das plaquetas (PDW)  
 - **dengue_label**: variável alvo (0 = não possui dengue, 1 = possui dengue)
 
-### Pré-processamento de dados
-
+###Pré-processamento de dados
 Foram realizadas etapas básicas de limpeza e preparação dos dados:
-
 - remoção de valores ausentes  
 - remoção de registros duplicados  
 - padronização dos nomes das variáveis para manter consistência na análise  
